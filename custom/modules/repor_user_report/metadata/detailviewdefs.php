@@ -50,13 +50,6 @@ array (
           0 => 'description',
           1 => 
           array (
-            'name' => 'users_repor_user_report_1_name',
-          ),
-        ),
-        3 => 
-        array (
-          0 => 
-          array (
             'name' => 'devic_device_repor_user_report_1_name',
           ),
         ),

@@ -76,13 +76,6 @@ array (
         array (
           0 => 'photo',
         ),
-        4 => 
-        array (
-          0 => 
-          array (
-            'name' => 'users_repor_user_report_1_name',
-          ),
-        ),
       ),
     ),
   ),

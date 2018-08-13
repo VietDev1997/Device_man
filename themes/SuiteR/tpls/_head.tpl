@@ -41,7 +41,7 @@
 <!DOCTYPE html>
 <html {$langHeader}>
 <head>
-    <link rel="SHORTCUT ICON" href="{$FAVICON_URL}">
+    <link rel="SHORTCUT ICON" href="https://jobseekers.vn/wp-content/uploads/2017/08/V-Next_Logo.png">
     <meta http-equiv="Content-Type" content="text/html; charset={$APP.LBL_CHARSET}">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,7 +53,7 @@
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
     <![endif]-->
-    <title>{$APP.LBL_BROWSER_TITLE}</title>
+    <title>Vnext|{$APP.LBL_BROWSER_TITLE}</title>
     {$SUGAR_JS}
     {literal}
     <script type="text/javascript">

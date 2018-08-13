@@ -1,5 +1,5 @@
 <?php
-// created: 2018-08-08 11:58:36
+// created: 2018-08-13 04:48:07
 $dictionary["devic_device"]["fields"]["devic_device_repor_user_report_1"] = array (
   'name' => 'devic_device_repor_user_report_1',
   'type' => 'link',

@@ -20,6 +20,15 @@ array (
           'field' => '30',
         ),
       ),
+      'useTabs' => false,
+      'tabDefs' => 
+      array (
+        'DEFAULT' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+      ),
     ),
     'panels' => 
     array (
@@ -33,14 +42,7 @@ array (
         1 => 
         array (
           0 => 'description',
-          1 => 
-          array (
-            'name' => 'users_repor_user_report_1_name',
-          ),
-        ),
-        2 => 
-        array (
-          0 => 
+          1 =>
           array (
             'name' => 'devic_device_repor_user_report_1_name',
           ),

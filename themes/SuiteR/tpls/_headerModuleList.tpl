@@ -39,7 +39,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="index.php?module=Home&action=index">{$APP.LBL_BROWSER_TITLE}</a>
+            <span><a class="navbar-brand" href="index.php?module=Home&action=index"><span class="glyphicon glyphicon-home"></span></a></span>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile_menu">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
@@ -85,7 +85,7 @@
                             </li>
                         {/foreach}
                         <li role="presentation"><a role="menuitem" id="logout_link" href='{$LOGOUT_LINK}' class='utilsLink'>{$LOGOUT_LABEL}</a></li>
-                    </ul>
+                    </ul><button type="submit" class="btn btn-primary " ><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
                 </div>
                 <div id="userlinks_head" class="navbar-toggle collapsed">
                     <a href="javascript:void(0)" id="userlinks_togglemobilesearch"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
@@ -334,9 +334,9 @@
                 <input type="hidden" class="form-control" name="search_form" value="false">
                 <input type="hidden" class="form-control" name="advanced" value="false">
                 <div class="input-group">
-                    <input type="text" class="form-control"  name="query_string" id="query_string" placeholder="{$APP.LBL_SEARCH}..." value="{$SEARCH}" />
+                    <input type="text" style="border-radius: 11px" class="form-control"  name="query_string" id="query_string" placeholder="{$APP.LBL_SEARCH}..." value="{$SEARCH}" />
                     <span class="input-group-btn">
-                        <button type="submit" class="btn btn-default" ><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                        <button type="submit" class="btn btn-default " style="border-radius: 11px;background-color: white !important;color: #5872bb !important"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
                     </span>
                 </div>
             </form>
