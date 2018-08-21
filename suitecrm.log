@@ -1,0 +1,85 @@
+Wed Aug  8 11:19:52 2018 [14986][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'device_manager.currencies' doesn't exist
+Wed Aug  8 11:19:52 2018 [14986][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Users' AND  deleted = 0: MySQL error 1146: Table 'device_manager.fields_meta_data' doesn't exist
+Wed Aug  8 11:19:52 2018 [14986][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Employees' AND  deleted = 0: MySQL error 1146: Table 'device_manager.fields_meta_data' doesn't exist
+Wed Aug  8 11:19:52 2018 [14986][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='UserPreferences' AND  deleted = 0: MySQL error 1146: Table 'device_manager.fields_meta_data' doesn't exist
+Wed Aug  8 11:19:52 2018 [14986][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Administration' AND  deleted = 0: MySQL error 1146: Table 'device_manager.fields_meta_data' doesn't exist
+Wed Aug  8 11:19:52 2018 [14986][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'device_manager.config' doesn't exist
+Wed 08 Aug 2018 11:20:52 AM CEST [25512][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'device_manager.outbound_email' doesn't exist
+Wed 08 Aug 2018 11:20:52 AM CEST [25512][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('1a0e4695-63e1-efab-6db7-5b6ab53fa92d','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'device_manager.outbound_email' doesn't exist
+Wed Aug  8 11:21:52 2018 [4003][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'device_manager.outbound_email' doesn't exist
+Wed Aug  8 11:21:52 2018 [4003][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('1a464b1b-a322-e5c2-e159-5b6ab6d720ed','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'device_manager.outbound_email' doesn't exist
+Wed Aug  8 11:56:24 2018 [4755][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Aug  8 11:56:24 2018 [4755][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed 08 Aug 2018 11:57:59 AM CEST [25640][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Wed 08 Aug 2018 11:57:59 AM CEST [25640][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed 08 Aug 2018 11:57:59 AM CEST [25640][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Aug  8 11:59:34 2018 [4755][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Wed Aug  8 11:59:34 2018 [4755][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Aug  8 11:59:34 2018 [4755][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Aug  8 12:01:18 2018 [4003][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Wed Aug  8 12:01:18 2018 [4003][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Aug  8 12:01:18 2018 [4003][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Thu 09 Aug 2018 03:01:44 PM CEST [17443][-none-][FATAL] Could not connect to DB server localhost as root. port : Connection refused
+Thu 09 Aug 2018 04:09:57 PM CEST [19953][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Thu 09 Aug 2018 04:09:57 PM CEST [19953][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 03:33:22 AM CEST [5732][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 03:33:22 AM CEST [5732][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 03:38:52 AM CEST [5730][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri 10 Aug 2018 03:38:52 AM CEST [5730][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 03:38:52 AM CEST [5730][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 03:39:02 AM CEST [6154][-none-][FATAL] SECURITY: User authentication for sonha+ failed
+Fri 10 Aug 2018 03:39:02 AM CEST [6154][-none-][FATAL] FAILED LOGIN:attempts[1] - sonha+
+Fri 10 Aug 2018 03:48:27 AM CEST [5731][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri 10 Aug 2018 03:48:28 AM CEST [5731][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Fri 10 Aug 2018 03:49:12 AM CEST [5731][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri 10 Aug 2018 03:49:12 AM CEST [5731][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 03:49:12 AM CEST [5731][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 03:53:13 AM CEST [6155][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri 10 Aug 2018 03:53:13 AM CEST [6155][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 03:53:13 AM CEST [6155][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 03:58:50 AM CEST [5730][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 03:58:50 AM CEST [5730][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 04:06:34 AM CEST [8045][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 04:06:34 AM CEST [8045][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 08:13:44 AM CEST [12899][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 08:13:44 AM CEST [12899][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 08:14:33 AM CEST [12585][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 08:14:33 AM CEST [12585][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 08:14:33 AM CEST [12585][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri 10 Aug 2018 08:18:21 AM CEST [12587][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 08:18:21 AM CEST [12587][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 08:57:06 AM CEST [20670][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 08:59:14 AM CEST [20672][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 08:59:14 AM CEST [20672][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri 10 Aug 2018 09:05:41 AM CEST [18616][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 09:05:41 AM CEST [18616][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri 10 Aug 2018 10:40:36 AM CEST [28429][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 10:40:36 AM CEST [28429][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri 10 Aug 2018 10:44:54 AM CEST [28835][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Fri 10 Aug 2018 10:44:54 AM CEST [28835][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 03:45:09 AM CEST [25866][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 03:45:09 AM CEST [25866][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 03:57:36 AM CEST [25708][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Mon 13 Aug 2018 03:57:36 AM CEST [25708][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 03:57:36 AM CEST [25708][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 04:05:13 AM CEST [25719][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 04:05:13 AM CEST [25719][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 04:10:18 AM CEST [26695][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Mon 13 Aug 2018 04:10:18 AM CEST [26695][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 04:10:18 AM CEST [26695][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 04:31:32 AM CEST [28123][ea4f1164-0627-d62f-9884-5b6abad5cb82][FATAL] Failed to load original or custom subpanel data for eapm in modules//metadata/subpanels/.php
+Mon 13 Aug 2018 04:37:38 AM CEST [28137][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 04:37:38 AM CEST [28137][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 04:46:41 AM CEST [28517][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 04:46:41 AM CEST [28517][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 04:49:06 AM CEST [28838][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Mon 13 Aug 2018 04:49:06 AM CEST [28838][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 04:49:06 AM CEST [28838][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 04:59:57 AM CEST [29110][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 04:59:57 AM CEST [29110][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Mon 13 Aug 2018 05:04:31 AM CEST [29450][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon 13 Aug 2018 05:04:31 AM CEST [29450][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Tue 14 Aug 2018 03:53:43 AM CEST [15293][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 14 Aug 2018 03:53:54 AM CEST [15358][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 08:35:27 AM CEST [16707][-none-][FATAL] SECURITY: User authentication for vietnt@vnext.com.vn failed
+Tue 21 Aug 2018 08:35:27 AM CEST [16707][-none-][FATAL] FAILED LOGIN:attempts[1] - vietnt@vnext.com.vn

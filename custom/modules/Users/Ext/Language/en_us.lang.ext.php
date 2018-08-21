@@ -1,0 +1,12 @@
+<?php 
+ //WARNING: The contents of this file are auto-generated
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_USERS_REPOR_USER_REPORT_1_FROM_REPOR_USER_REPORT_TITLE'] = 'User Report';
+$mod_strings['LBL_USERS_DEVIC_DEVICE_1_FROM_DEVIC_DEVICE_TITLE'] = 'Device';
+
+?>
