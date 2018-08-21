@@ -84,3 +84,19 @@ Tue 14 Aug 2018 03:53:54 AM CEST [15358][-none-][FATAL] Could not connect to DB 
 Tue 21 Aug 2018 08:35:27 AM CEST [16707][-none-][FATAL] SECURITY: User authentication for vietnt@vnext.com.vn failed
 Tue 21 Aug 2018 08:35:27 AM CEST [16707][-none-][FATAL] FAILED LOGIN:attempts[1] - vietnt@vnext.com.vn
 Tue 21 Aug 2018 09:11:10 AM CEST [16616][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:12:11 AM CEST [16710][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:13:12 AM CEST [16620][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:14:13 AM CEST [16707][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:15:14 AM CEST [16617][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:16:15 AM CEST [16619][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:17:16 AM CEST [16719][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:18:17 AM CEST [16722][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:19:18 AM CEST [16720][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:20:19 AM CEST [16711][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:21:20 AM CEST [16616][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:22:21 AM CEST [16710][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:23:22 AM CEST [16620][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:24:22 AM CEST [16707][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:25:23 AM CEST [16617][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:26:24 AM CEST [16619][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
+Tue 21 Aug 2018 09:27:24 AM CEST [16719][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 

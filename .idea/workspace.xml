@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cb8757-8950-41ec-a0dc-470a380b6e7c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cache/modules/Alerts/language/en_us.lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/modules/Alerts/language/en_us.lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suitecrm.log" beforeDir="false" afterPath="$PROJECT_DIR$/suitecrm.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,9 +17,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="95" column="9" lean-forward="true" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -101,8 +111,8 @@
         <option value="$PROJECT_DIR$/themes/SuiteR/tpls/_headerModuleList.tpl" />
         <option value="$PROJECT_DIR$/modules/repor_user_report/metadata/listviewdefs.php" />
         <option value="$PROJECT_DIR$/custom/modules/repor_user_report/metadata/editviewdefs.php" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config.php" />
       </list>
     </option>
   </component>
@@ -196,12 +206,12 @@
       <workItem from="1534083407498" duration="9758000" />
       <workItem from="1534154098044" duration="1436000" />
       <workItem from="1534172919637" duration="2895000" />
-      <workItem from="1534832725290" duration="1479000" />
+      <workItem from="1534832725290" duration="2213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103500000" />
+    <option name="totallyTimeSpent" value="104234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -482,13 +492,6 @@
     <entry file="file://$PROJECT_DIR$/custom/modules/repor_user_report/Ext/Vardefs/vardefs.ext.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3007">
-          <caret line="97" column="30" lean-forward="true" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/custom/modules/repor_user_report/metadata/editviewdefs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -498,6 +501,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="95" column="9" lean-forward="true" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
