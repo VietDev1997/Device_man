@@ -94,11 +94,11 @@ $sugar_config = array (
   'datef' => 'm/d/Y',
   'dbconfig' => 
   array (
-    'db_host_name' => 'localhost',
+    'db_host_name' => 'https://www.db4free.net',
     'db_host_instance' => 'SQLEXPRESS',
-    'db_user_name' => 'root',
-    'db_password' => '',
-    'db_name' => 'device_manager',
+    'db_user_name' => 'tienviet',
+    'db_password' => 'tienviet',
+    'db_name' => 'viet123456789',
     'db_type' => 'mysql',
     'db_port' => '',
     'db_manager' => 'MysqliManager',

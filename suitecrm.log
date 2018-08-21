@@ -83,3 +83,4 @@ Tue 14 Aug 2018 03:53:43 AM CEST [15293][-none-][FATAL] Could not connect to DB 
 Tue 14 Aug 2018 03:53:54 AM CEST [15358][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
 Tue 21 Aug 2018 08:35:27 AM CEST [16707][-none-][FATAL] SECURITY: User authentication for vietnt@vnext.com.vn failed
 Tue 21 Aug 2018 08:35:27 AM CEST [16707][-none-][FATAL] FAILED LOGIN:attempts[1] - vietnt@vnext.com.vn
+Tue 21 Aug 2018 09:11:10 AM CEST [16616][-none-][FATAL] Could not connect to DB server https as tienviet. port //www.db4free.net: 
